@@ -1,2 +1,2 @@
 # Emojipedia
-This is an app that lists and explains the meaning of each emoji. Hope you like it!!!
+This app provides a comprehensive list of emojis, each accompanied by its specific meaning. Enjoy exploring!
